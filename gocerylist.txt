@@ -4,6 +4,7 @@
 
  [Meat]
  -Chicken
+ -Beef
 
  [Dairy]
  -Milk
