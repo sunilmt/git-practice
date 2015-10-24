@@ -1,0 +1,10 @@
+[Ingradients]
+-Noodeles
+-Egg
+-Seasoning
+-Geen Onions
+
+[Instructions]
+- Boiled egg
+- Cook noodles
+- COmbine noodels and seasonign
